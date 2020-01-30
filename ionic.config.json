@@ -1,0 +1,7 @@
+{
+  "name": "geo_notificaion_back",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

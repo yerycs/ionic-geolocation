@@ -1,0 +1,11 @@
+:host {
+    .map{
+        height: 50%;
+    }
+    .item_user {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        font-size: 12px;
+    }
+}
